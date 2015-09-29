@@ -1,0 +1,8 @@
+syntax: glob
+*.swp.{py,txt,html,css,js}
+docs/_build/
+.cache
+.coverage
+*.pyc
+.ipynb_checkpoints/*
+*.jar
